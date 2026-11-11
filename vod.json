@@ -1,0 +1,21 @@
+{
+  "code": 1,
+  "msg": "CC-BY demo source for LibreTV",
+  "page": 1,
+  "pagecount": 1,
+  "limit": "20",
+  "total": 1,
+  "list": [
+    {
+      "vod_id": 1,
+      "vod_name": "Big Buck Bunny (CC-BY demo test)",
+      "type_name": "动画",
+      "vod_year": "2008",
+      "vod_area": "荷兰",
+      "vod_remarks": "CC-BY 3.0 演示",
+      "vod_content": "Blender Foundation 开放电影，CC-BY 3.0。本文件仅用于验证 LibreTV 点播源链路（添加、勾选、测活、搜索、详情、播放、换集），不含任何商业影视内容。第二集为 Tears of Steel 的公开演示流，仅用于验证换集功能。",
+      "vod_play_from": "演示线路",
+      "vod_play_url": "第1集 Big Buck Bunny$https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8#第2集 Tears of Steel$https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+    }
+  ]
+}
